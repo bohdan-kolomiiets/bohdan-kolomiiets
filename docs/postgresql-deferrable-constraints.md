@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deferrable constratins in PostgreSQL"
-permalink: /postgres/deferrable-constraints
+permalink: /postgres/deferrable-constraints/
 ---
 
 # How to update primary key with related foreign keys using deferred constraints feature of PostgreSQL ?
