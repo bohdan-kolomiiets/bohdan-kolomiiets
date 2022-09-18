@@ -2,9 +2,9 @@
 
 ### My contacts
 
-- kolomiiets.bohdan.yuriyovych@gmail.com
-- https://facebook.com/kolomiiets.bohdan.yuriyovych
-- https://linkedin.com/in/bohdan-kolomiiets-4347b6136
+- [kolomiiets.bohdan.yuriyovych@gmail.com](kolomiiets.bohdan.yuriyovych@gmail.com)
+- [https://facebook.com/kolomiiets.bohdan.yuriyovych](https://facebook.com/kolomiiets.bohdan.yuriyovych)
+- [https://linkedin.com/in/bohdan-kolomiiets-4347b6136](https://linkedin.com/in/bohdan-kolomiiets-4347b6136)
 
 <!--
 **bohdan-kolomiiets/bohdan-kolomiiets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
