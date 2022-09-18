@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### My contacts
+
+- kolomiiets.bohdan.yuriyovych@gmail.com
+- facebook.com/kolomiiets.bohdan.yuriyovych
+- linkedin.com/in/bohdan-kolomiiets-4347b6136
+
 <!--
 **bohdan-kolomiiets/bohdan-kolomiiets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
