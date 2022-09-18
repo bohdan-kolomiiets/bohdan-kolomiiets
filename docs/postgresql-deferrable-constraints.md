@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Deferrable constratins in PostgreSQL"
 permalink: /postgres/deferrable-constraints
 ---
