@@ -1,6 +1,6 @@
 layout: page
 title: "Deferrable constratins in PostgreSQL"
-permalink: /posgres/deferrable-constraints
+permalink: /posgres/deferrable-constraints/
 
 
 [https://www.postgresql.org/docs/current/sql-altertable.html](https://www.postgresql.org/docs/current/sql-altertable.html)
